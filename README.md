@@ -32,8 +32,10 @@ Included in this repository are the following items:
     - This is the csv file created in document 2 and used in document 3.
    
 References:
+- https://github.com/huggingface/notebooks/blob/main/transformers_doc/en/training.ipynb
 - https://discuss.huggingface.co/t/evaluating-finetuned-bert-model-for-sequence-classification/5265
 - https://medium.com/@nirajan.acharya777/sentimental-analysis-using-linear-regression-86764bfde907
+- Other HuggingFace Notebooks
 - StackOverflow forums
 - Class notes
 
