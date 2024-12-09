@@ -22,11 +22,11 @@ Included in this repository are the following items:
    - Pickled version of the SVM model from document 2.
 7. lg_model.pkl
    - Pickled version of the Logistic Regression model and vectorizer from document 2.
-8. trained_model folder
+8. trained_model folder *(not included)
    - This folder contains the trained model and tokenizer for the BERT model from document 2.
-9. logs folder
+9. logs folder *(not included)
    - This folder contains the logs from training the BERT model in document 2.
-10. results folder
+10. results folder *(not included)
     - This folder containes the results from training the BERT model in document 2.
 11. conclusion_data.csv
     - This is the csv file created in document 2 and used in document 3.
@@ -37,3 +37,6 @@ References:
 - StackOverflow forums
 - Class notes
 
+* items 8-10 are not included as they were too large to upload. these documents can be gained by running the code in documents 2
+
+Note: The analysis done in document 3 does not require the missing items 8-10
