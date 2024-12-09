@@ -37,6 +37,6 @@ References:
 - StackOverflow forums
 - Class notes
 
-* items 8-10 are not included as they were too large to upload. these documents can be gained by running the code in documents 2
-
-Note: The analysis done in document 3 does not require the missing items 8-10
+Notes:
+- Items 8-10 are not included as they were too large to upload. these documents can be gained by running the code in documents 2
+- The analysis done in document 3 does not require the missing items 8-10
